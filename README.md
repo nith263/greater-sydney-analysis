@@ -1,6 +1,7 @@
 # Greater Sydney Analysis
 ## Summary
 This project analyses various datasets related to Greater Sydney, aiming to evaluate the distribution of resources across businesses, healthcare, education, transportation, and recreational facilities. The analysis provides insights into regional disparities and resource availability to inform local government decision-making. \
+Code is contained in: [assignment_final_notebook.ipynb](https://github.com/nith263/greater-sydney-analysis/blob/main/assignment_final_notebook.ipynb). \
 [Report.pdf](https://github.com/nith263/greater-sydney-analysis/blob/main/Report.pdf) contains the written analysis for this project. 
 
 ## Project Description
