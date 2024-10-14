@@ -18,15 +18,15 @@ The Greater Sydney Analysis project was completed as part of my university cours
 
 ## Methodology
 1. Data Collection & Pre-processing:
-  - Extracted and cleaned data from multiple sources to ensure consistency and accuracy.
-  - Merged datasets based on common identifiers (e.g., SA2 codes) using SQL for querying.
+    - Extracted and cleaned data from multiple sources to ensure consistency and accuracy.
+    - Merged datasets based on common identifiers (e.g., SA2 codes) using SQL for querying.
 
 2. Analytical Techniques:
-  - Calculated Z-scores to assess resource availability in different regions.
-  - Applied the sigmoid function to derive a comprehensive resource availability score.
+    - Calculated Z-scores to assess resource availability in different regions.
+    - Applied the sigmoid function to derive a comprehensive resource availability score.
 
 3.  Visualisation:
-  - Created various visualisations (heatmaps, boxplots) to illustrate findings and correlations between different factors.
+    - Created various visualisations (heatmaps, boxplots) to illustrate findings and correlations between different factors.
 
 ## Key Findings
 Identified [number]% of regions as under-resourced based on analysis of business and healthcare availability.
