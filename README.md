@@ -1,9 +1,10 @@
 # Greater Sydney Analysis
 ## Summary
 This project analyses various datasets related to Greater Sydney, aiming to evaluate the distribution of resources across businesses, healthcare, education, transportation, and recreational facilities. The analysis provides insights into regional disparities and resource availability to inform local government decision-making.
+[Report.pdf](https://github.com/nith263/greater-sydney-analysis/blob/main/Report.pdf) contains the written analysis for this project. 
 
 ## Project Description
-The Greater Sydney Analysis project was completed as part of my university coursework. The goal was to assess how well-resourced different regions within Greater Sydney are, focusing on factors such as business presence, healthcare facilities, public transport access, and educational institutions.
+The Greater Sydney Analysis project was completed as part of my university coursework, receiving **19/20**. The goal was to assess how well-resourced different regions within Greater Sydney are, focusing on factors such as business presence, healthcare facilities, public transport access, and educational institutions.
 
 ## Datasets Used
 - **Business.csv:** Data from the Australian Bureau of Statistics on businesses categorised by industry and SA2 regions.
