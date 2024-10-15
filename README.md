@@ -30,7 +30,6 @@ The Greater Sydney Analysis project was completed as part of my university cours
     - Created various visualisations (heatmaps, boxplots) to illustrate findings and correlations between different factors.
 
 ## Key Findings
-Identified [number]% of regions as under-resourced based on analysis of business and healthcare availability. \
 Discovered minimal correlation between median income levels and resource distribution across regions. \
 Developed insights that can guide local government in resource allocation and urban planning. 
 
